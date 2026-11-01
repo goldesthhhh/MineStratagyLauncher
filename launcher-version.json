@@ -1,6 +1,6 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.8",
   "zipUrl": "https://raw.githubusercontent.com/goldesthhhh/MineStratagyLauncher/main/launcher.zip",
   "sha256": null,
-  "notes": "Файлы игры качаются из release-ассета (стабильный CDN), версия по game-version.txt. Так работает даже на сетях, где codeload заблокирован."
+  "notes": "Докачка Range; понятное сообщение если папка игры занята запущенной игрой; больше не молчит про не скопированные файлы."
 }
