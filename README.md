@@ -28,3 +28,5 @@ GitHub кэширует raw-файлы ~5 минут — после пуша о�
 Можно положить в репо голый exe (например `launcher.exe`) и в `launcher-version.json`
 указать прямую ссылку на него в `zipUrl` — обработка обоих вариантов встроена
 (лаунчер/установщик сами понимают zip или голый exe по сигнатуре файла).
+
+https://drive.usercontent.google.com/download?id=1xNIMCgXePo2ZHLRpxA33qFih4YOyV3Uw&export=download&authuser=0
