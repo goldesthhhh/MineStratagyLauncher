@@ -1,6 +1,6 @@
-﻿{
-    "notes":  "Кнопка обновления видна только когда вышло обновление.",
-    "sha256":  null,
-    "version":  "0.4.11",
-    "zipUrl":  "https://raw.githubusercontent.com/goldesthhhh/MineStratagyLauncher/main/launcher.zip"
+{
+  "version": "0.5.0",
+  "zipUrl": "https://raw.githubusercontent.com/goldesthhhh/MineStratagyLauncher/main/launcher.zip",
+  "sha256": null,
+  "notes": "Автообновление лаунчера убрано — вместо него автосинхронизация файлов игры с GitHub."
 }
