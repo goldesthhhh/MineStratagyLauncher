@@ -1,6 +1,6 @@
 {
-  "version": "0.4.8",
+  "version": "0.4.10",
   "zipUrl": "https://raw.githubusercontent.com/goldesthhhh/MineStratagyLauncher/main/launcher.zip",
   "sha256": null,
-  "notes": "STRATAGY Launcher update."
+  "notes": "Распаковка внутри процесса — без консольных окон; обновление понимает и portable-запуск."
 }
