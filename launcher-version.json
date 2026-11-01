@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "zipUrl": "https://raw.githubusercontent.com/goldesthhhh/MineStratagyLauncher/main/launcher.zip",
   "sha256": null,
-  "notes": "Фикс: проверка не ругается во время установки/перекачки; игра заменяется только после полной загрузки."
+  "notes": "Таймауты загрузки вместо вечных 0%; автосинхронизация файлов игры; подключение через server.json из репы клиента."
 }
