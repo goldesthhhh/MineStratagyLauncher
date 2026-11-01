@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "zipUrl": "https://raw.githubusercontent.com/goldesthhhh/MineStratagyLauncher/main/launcher.zip",
   "sha256": null,
-  "notes": "Автообновление лаунчера убрано — вместо него автосинхронизация файлов игры с GitHub."
+  "notes": "Игра качается и проверяется автоматически; автообновление лаунчера в разработке."
 }
