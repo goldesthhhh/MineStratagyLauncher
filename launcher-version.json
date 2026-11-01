@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "zipUrl": "https://raw.githubusercontent.com/goldesthhhh/MineStratagyLauncher/main/launcher.zip",
   "sha256": null,
-  "notes": "Чистка зеркал; таймауты загрузки; автосинхронизация файлов игры; адрес из server.json репо клиента."
+  "notes": "2 попытки загрузки, таймауты 45/60с; переустановка сносит всё и качает заново; полное сохранение твоих файлов."
 }
